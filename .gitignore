@@ -1,11 +1,29 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
+.Python
 env/
 venv/
-.idea/
+*.env
 .vscode/
-*.mp4
-suspicious_frames/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+.ipython/
+.python_history
+
+# Logs and temporary files
+*.log
+*.temp
+*.tmp
+
+# Streamlit specific
+.streamlit/
+temp_uploaded_video.mp4 # Temporary file for uploaded videos
+suspicious_frames/     # Directory where screenshots are saved
+
+# YOLOv5 specific (if you were training or had runs directory)
+runs/
+weights/
