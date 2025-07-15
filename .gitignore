@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+env/
+venv/
+.idea/
+.vscode/
+*.mp4
+suspicious_frames/
