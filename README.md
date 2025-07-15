@@ -1,4 +1,4 @@
-ntelligent Video Surveillance System
+Intelligent Video Surveillance System
 Real-time Suspicious Activity Detection with YOLOv5
 This project implements an intelligent video surveillance system capable of detecting and flagging suspicious activities, such as theft or unauthorized bag handling, in real-time video streams. Leveraging the power of deep learning with YOLOv5, this system is designed to enhance early crime detection in sensitive environments like retail stores, banks, and warehouses.
 
