@@ -1,4 +1,7 @@
-torch>=1.7
+streamlit
 opencv-python
-matplotlib
-pandas
+torch
+torchvision
+ultralytics
+numpy
+Pillow # Often a dependency for image processing, good to include
